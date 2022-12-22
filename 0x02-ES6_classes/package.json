@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "0x02-es6_classes",
   "version": "1.0.0",
   "description": "## Resources",
@@ -13,3 +14,9 @@
     "url": "alx-frontend-javascript"
   }
 }
+=======
+    "scripts": {
+      "test": "jest"
+    }
+  }
+>>>>>>> 90bbde3e4bf8011d067c42cceae923a1bf6588ca
